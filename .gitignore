@@ -1,0 +1,23 @@
+# Ignore object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Ignore compiled files
+*.so
+*.dll
+*.class
+*.jar
+*.war
+*.out
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.swp
+cmake-build-debug
+
+# Ignore build files
+build/
+bin/
